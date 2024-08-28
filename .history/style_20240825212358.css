@@ -1,0 +1,64 @@
+
+
+
+
+
+.hero-section {
+    background-image: url('image/img3.jpg'); /* Replace with your image */
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 100vh;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+  }
+  .hero-section{
+    body, html {
+        height: 100%;
+        margin: 0;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        background-color: #f8f9fa;
+      }
+  
+      .login-container {
+        width: 100%;
+        max-width: 400px;
+        padding: 20px;
+        background-color: white;
+        border-radius: 8px;
+        box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+      }
+  
+      .login-container h2 {
+        margin-bottom: 20px;
+        text-align: center;
+      }
+
+
+
+
+  }
+  .hero-section h1 {
+    font-size: 4rem;
+    margin-bottom: 20px;
+  }
+
+  .hero-section p {
+    font-size: 1.5rem;
+  }
+
+  .featured-section {
+    padding: 50px 0;
+  }
+
+  .footer {
+    background-color: #343a40;
+    color: white;
+    padding: 20px 0;
+    text-align: center;
+  }

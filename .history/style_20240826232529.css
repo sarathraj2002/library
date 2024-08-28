@@ -1,0 +1,26 @@
+
+body{
+        background-size: cover;
+        margin: 0;
+        padding: 0;
+    }
+    .carousel-caption {
+        background-color: rgba(0, 0, 0, 0.5); /* Adds a semi-transparent background */
+        padding: 20px;
+        border-radius: 8px;
+        margin-top: ;
+      }
+    .button{
+        text-align: center;
+    }
+    .featured-section {
+        padding: 100px 0;
+      }
+      .footer {
+        background-color: #343a40;
+        color: white;
+        padding: 20px 0;
+        text-align: center;
+      }  
+
+

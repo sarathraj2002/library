@@ -1,0 +1,27 @@
+body{
+    background-image: url(https://t4.ftcdn.net/jpg/07/47/96/53/360_F_747965396_v8RbcQEiwiheUiY0Cn3kD5i2ZVXvWIFt.jpg);
+    background-size: cover;
+}
+.container{
+        
+    height: 100px;
+    
+}
+.login{
+    right: 40px;
+    text-align: center;
+    padding-top: 0%;
+    padding-left: 2%;
+    padding-right: 5%;
+    margin-top: 10%;
+    margin-right: 10%;
+    padding-bottom: 5%;
+    position: absolute;
+    background-color: white;
+    
+}
+.login button{
+    background-color: blue;
+    color: white;
+    width: 100%;
+}

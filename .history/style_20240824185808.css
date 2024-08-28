@@ -1,0 +1,22 @@
+body{
+    background-image: url(https://images.pexels.com/photos/2908984/pexels-photo-2908984.jpeg?cs=srgb&dl=pexels-technobulka-2908984.jpg&fm=jpg);
+    background-size: cover;
+    margin: 0;
+    padding: 0;
+}
+.container{
+    
+    height: 100px;
+    
+}
+.login{
+    right: 40px;
+    padding-left: 10%;
+    ma
+    position: absolute;
+    background-color: white;
+    border: 1px solid black;
+    border-radius: 1px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+
+}
